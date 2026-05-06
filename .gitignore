@@ -1,2 +1,16 @@
-nsenv
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+Artifacts/
+logs/
+final_model/
+
 .env
+venv/
+env/
+
+.ipynb_checkpoints/
