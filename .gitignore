@@ -14,3 +14,6 @@ venv/
 env/
 
 .ipynb_checkpoints/
+
+final_model/
+prediction_output/
